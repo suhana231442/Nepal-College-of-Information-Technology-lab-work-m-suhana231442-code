@@ -247,54 +247,8 @@ Dashboard (Charts & Graphs)
 ---
 
 # 📸 Output
-
-## ESP32 Circuit
-
-> *(Insert Screenshot)*
-
----
-
-## Serial Monitor Output
-
-> *(Insert Screenshot)*
-
----
-
-## Successful Wi-Fi Connection
-
-> *(Insert Screenshot)*
-
----
-
-## REST API Response
-
-> *(Insert Screenshot)*
-
----
-
-## Stored Sensor Data
-
-> *(Insert Screenshot)*
-
----
-
-## Dashboard Home Page
-
-> *(Insert Screenshot)*
-
----
-
-## Temperature Visualization
-
-> *(Insert Screenshot)*
-
----
-
-## Humidity Visualization
-
-> *(Insert Screenshot)*
-
----
+![alt text](image.png)
+![alt text](image-1.png)
 
 # 📊 Sample Sensor Data
 

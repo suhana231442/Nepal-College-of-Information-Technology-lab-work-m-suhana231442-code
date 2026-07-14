@@ -187,7 +187,8 @@ Lab-3/
 ---
 
 ## 📸 Output
-
+![alt text](image.png)
+![alt text](<image copy.png>)
 
 ## 📈 Sample Visualization
 
