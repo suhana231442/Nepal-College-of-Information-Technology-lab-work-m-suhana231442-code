@@ -138,22 +138,9 @@ Lab-1/
 
 ## 📸 Output
 
-### EC2 Instance Running
-
-> *(Insert Screenshot)*
-
----
-
-### Nginx Installed Successfully
-
-> *(Insert Screenshot)*
-
----
-
 ### Hosted Web Page
-
-> *(Insert Screenshot)*
-
+![alt text](<Screenshot 2026-07-14 120237.png>)
+![alt text](<Screenshot 2026-07-14 120312.png>)
 ---
 
 ## ✅ Result
