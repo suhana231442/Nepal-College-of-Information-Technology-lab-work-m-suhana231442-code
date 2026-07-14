@@ -233,48 +233,9 @@ Lab-2/
 ---
 
 ## 📸 Output
+![alt text](image.png)
+![alt text](<image copy.png>)
 
-### EC2 Instance Running
-
-> *(Insert Screenshot)*
-
----
-
-### FastAPI Server Running
-
-> *(Insert Screenshot)*
-
----
-
-### Swagger API Documentation
-
-Open in browser:
-
-```
-http://<EC2-Public-IP>:8000/docs
-```
-
-> *(Insert Screenshot)*
-
----
-
-### POST Request
-
-> *(Insert Screenshot)*
-
----
-
-### GET Request
-
-> *(Insert Screenshot)*
-
----
-
-### Terminal Output
-
-> *(Insert Screenshot)*
-
----
 
 ## ✅ Result
 

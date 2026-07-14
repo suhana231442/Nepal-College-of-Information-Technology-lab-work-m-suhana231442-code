@@ -188,41 +188,6 @@ Lab-3/
 
 ## 📸 Output
 
-### REST API Response
-
-> *(Insert Screenshot)*
-
----
-
-### Dashboard Home Page
-
-> *(Insert Screenshot)*
-
----
-
-### Temperature Chart
-
-> *(Insert Screenshot)*
-
----
-
-### Humidity Chart
-
-> *(Insert Screenshot)*
-
----
-
-### Historical Sensor Data Table
-
-> *(Insert Screenshot)*
-
----
-
-### Dashboard Hosted on AWS EC2
-
-> *(Insert Screenshot)*
-
----
 
 ## 📈 Sample Visualization
 
